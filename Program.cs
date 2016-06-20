@@ -5,7 +5,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Linia linia = new Linia();
-
+			Linia ontur00 = new Linia();
             Console.Write(linia);
             Console.ReadKey();
         }
